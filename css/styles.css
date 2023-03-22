@@ -1,0 +1,24 @@
+#reloj{ /*id*/
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    text-shadow: 0px 0px 1px #333;
+    color: white;
+}
+
+.reloj-contenedor{ /*class */
+    background-color:rgb(71, 38, 189);
+    padding: 25px;
+    max-width:350px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 10%;
+}
+
+#fecha{
+    letter-spacing: 10px;
+    font-size: 15px;
+}
+.animar{
+    border:rgb(0,0, 0) 2px solid;
+}
